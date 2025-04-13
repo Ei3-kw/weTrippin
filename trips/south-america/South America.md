@@ -1,4 +1,4 @@
-> give Chungus a kiss 🩷
+> give Chungus a kiss & a hug 🩷
 > give bedbug two kisses 🩷
 
 # TODO
@@ -12,10 +12,15 @@
 - screw tha Ar visa... fucked up
 > yea let's just not do this this time... ![fuck](https://media1.tenor.com/m/nanFebyUvXAAAAAd/cat-fuck-this.gif)
 
-## Plane ticket
-- Sun, 22 Jun 2025 - Bris -> Lima (Peru)
-- Sun, 27 Jul 2025 - La Paz (Bol) -> Bris
-- [$2476](https://www.skyscanner.com.au/transport/d/bne/2025-06-22/lima/lpb/2025-07-27/bne/config/10041-2506220815--32166,-32115-2-13571-2506221625%7C13690-2507270917--32115-3-10041-2507290945?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&infants=0&ref=home)
+## Plane ticket - DONE
+- Sat, 14 Jun 2025 (8:40) **Bris** -> Sat, 14 Jun 2025 (22:35) **Lima (Peru)**
+- Mon, 28 Jul 2025 (5:50) **La Paz (Bol)** -> Wed, 30 Jul 2025 (13:10) **Bris**
+
+## Rent cars
+### Peru
+### Bolivia
+
+## International Driving Permit (IDP)
 
 ## Plan B for Altitude sickness?
 
@@ -27,11 +32,69 @@
 - https://www.couchsurfing.com/people/ninoclimber
 - https://www.couchsurfing.com/people/psicomagia
 
-## International Driving Permit (IDP)
+## Not Die of Ligma
+> [peru](https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru) \
+> [bolivia](https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia)
+
+### Vaccines (Ella)
+- rabies (2/3)
+- flu vac (1/1)
+- Hepatitis A (0/1)
+- Typhoid (0/1)
+- Yellow fever (0/1)
+- Hepatitis B (0/3)
+- Varicella (chickenpox) (0/1)
+- MMR (?)
+
+### Travel insurance (Ella?)
+> In case Ella having bad altitude sickness/ being stupid/ both
+[Southern Cross](https://www.scti.com.au/our-policies/comprehensive/quote)
+
+## Pack up list (Ella)
+- Manta
+- MBP
+- Garmin Instinct
+- chu9us & charger
+- Camera gears
+	- A6400
+ 	- ZVE10
+    	- TTartisan 7.5mm F2 fisheye
+  	- SIGMA 16mm F1.4
+  	- SIGMA 30mm F1.4
+  	- Tamron 70-300
+  	- SIGMA 60mm F2.8?
+  	- Sony 18-105 F4?
+  	- Tripod (new)
+  	- all batteries
+  	- lense warmer
+  	- powerbank
+- Hiking gears
+	- 50L bag
+ 	- hiking poles
+  	- Ice Flame sleeping bag
+  	- +8C liner
+  	- Thermarest sleeping mat (reg)
+  	- lights
+  	- ...
+- Clothing
+	- warm clothes - the drip I got
+ 	- a jacket (let rain in one if I can't find the waterproof windbreaker)
+  	- 5 socks
+  	- a few undies
+  	- a dress (which one?)
+  	- a hat
+  	- a cap
+  	- simmers
+  	- a beenie
+  	- a few quickdry shirts
+  	- 2 shorts
+  	- a pair of flip-flops
+- ... 
 
 # Schedule
-
-roughly Jun 23rd -> Jul 26th
+Jun 14th -> Jul 27th
+## Peru
+## Bolivia
 
 # TOGO
 ## Peru
