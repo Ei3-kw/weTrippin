@@ -54,7 +54,7 @@
 - Manta
 - MBP
 - Garmin Instinct
-- chu9us & charger
+- chun9us & charger
 - Camera gears
 	- A6400
  	- ZVE10
@@ -79,12 +79,13 @@
 - Clothing
 	- warm clothes - the drip I got
  	- a jacket (let rain in one if I can't find the waterproof windbreaker)
-  	- 5 socks
+  	- 5 pairs of socks
   	- a few undies
-  	- a dress (which one?)
+  	- purple dress + red dress - chungus likes em
   	- a hat
   	- a cap
-  	- simmers
+  	- swimmers
+  	- a comb
   	- a beenie
   	- a few quickdry shirts
   	- 2 shorts
@@ -122,9 +123,19 @@ Jun 14th -> Jul 27th
 - Lima
 	- Inca market
 - Arequipa
-	- El Misti
-	- Nevado de Chachani
-	- Ubinas   
+	- Vocanoes   
+  		- El Misti (probs not)
+		- [Nevado de Chachani](https://www.gaiagps.com/map/?loc=13.0/-71.5307/-16.1768&osmData=%7B%22type%22%3A%22osm%22%2C%22title%22%3A%22Trail%22%2C%22lngLat%22%3A%7B%22lng%22%3A-71.52825738414502%2C%22lat%22%3A-16.1757346868921%7D%2C%22properties%22%3A%7B%22kilometers%22%3A%225.9%22%2C%22mileage_minzoom%22%3A13%2C%22miles%22%3A%223.7%22%2C%22osm_id%22%3A320247029%2C%22sac_scale%22%3A%22demanding_mountain_hiking%22%2C%22trail_type%22%3A%22hiking%22%2C%22type%22%3A%22trail%22%2C%22geometry%22%3A%7B%22type%22%3A%22MultiLineString%22%2C%22coordinates%22%3A%5B%22hxyaBrjrsLc%40uH%7C%40qAdAWr%40N%5C%5C~%40l%40HlAp%40Gv%40u%40dAaA~%40cB%3FiAtA%5BUkBzDaAlAiB%60%40%3FpAsAbA%5Bf%40K%3FO%60%40YQKj%40KQGPOUM%60%40WYCLWCI%5C%5CSNKUKTOYQHGEOXKOGFQUKBGXS%5DYf%40c%40s%40CeCKi%40a%40%7B%40eAo%40_%40BMYk%40e%40e%40OKk%40mAYGBGGYPKUOPSIMUGDSMKPK%3FIMKCSPWFIC%5BPGEWLMYc%40TKc%40i%40D_%40NYXOUWCCUM%3Fc%40TKGa%40TC%5DCEWHQ%5D%5BNKSG%3FQN_%40a%40%5B%5C%5CICSa%40CYc%40Ne%40j%40GCGg%40G%3Fy%40n%40i%40o%40c%40%5C%5CICOe%40G%3FsBbAs%40BwAKGGBYOFGKK%3FFMKOM%3F%3FIG%3FGOFQGCBUo%40GIG%3FQ%5C%5CUBSOw%40UNGa%40KBCKO%3FCGKBBMI%3FOPGCBUGCc%40XIYWJGOOTG%3FMU%3FM%5BLG%5DG%3FQUG%3Fy%40w%40%5BKOQY%3FSKoBQ%7B%40O%5D%3FCg%40S%3Fq%40s%40c%40u%40%5DaAOgANaBCUS%5D%3FyAUo%40g%40e%40KYe%40YO_ABMOq%40QQOi%40OQCYi%40cAGa%40u%40iAS_AOY%5DUc%40%7B%40u%40_ACSq%40k%40c%40s%40oCqCQYO%7B%40mAsAOk%40m%40KOUa%40QCKq%40%5DDYMUTm%40%3F_BRq%40%5BkBFUCS%5D%7B%40q%40wCo%40yAq%40yEe%40s%40k%40aBe%40%7B%40Cg%40_%40i%40Ma%40yE%7BGiAiBm%40o%40Wi%40uAiAu%40_A%3FU%22%5D%7D%7D%2C%22osmId%22%3A320247029%2C%22mapboxLayerId%22%3A%22GaiaTopoRasterFeet__trail%22%7D) **5060 -> 6060m**
+		- Ubinas (probs not)
+ 	- In town **2500m?**
+		- the white church - Basilica Cathedral of Arequipa - Plaza de Armas, Arequipa
+		- The Museum of Andean Sanctuaries - Calle la Merced 110, Arequipa
+  		- Casa del Moral - Calle Moral 318, Arequipa
+		- Mirador Yanahuara Lookout - Miguel Grau, Yanahuara, Arequipa
+		- Monasterio de Santa Catalina - Santa Catalina 301, Arequipa
+  		- Couch surfing :3 
+
+
 	   
 ## Bus?
 [Cusco -> La paz](https://www.ticketsbolivia.com/travel-by-bus/cusco-la_paz.php)
@@ -139,6 +150,8 @@ Jun 14th -> Jul 27th
  	- > Me too...
 - [Red Lagoon - Laguna Colorada]([https://maps.apple.com/?address=Laguna%20Colorada,%20Bolivia&auid=15405890189764863559&ll=-14.808099,-64.971853&lsp=6489&q=Laguna%20Colorada](https://en.wikipedia.org/wiki/Laguna_Colorada))
 - [Green Lagoon - Laguna Verde](https://en.wikipedia.org/wiki/Laguna_Verde_(Bolivia))
+- Sol de Mañana
+
 ## North Chile?
 - [Atacama Desert](https://maps.apple.com/?address=Chile&auid=13640263165124038263&ll=-24.102116,-69.874556&lsp=9902&q=Atacama%20Desert)
 
