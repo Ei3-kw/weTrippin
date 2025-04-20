@@ -59,44 +59,90 @@
 - chun9us & charger
 - Camera gears
 	- A6400
- 	- ZVE10
-    	- TTartisan 7.5mm F2 fisheye
-  	- SIGMA 16mm F1.4
-  	- SIGMA 30mm F1.4
-  	- Tamron 70-300
-  	- SIGMA 60mm F2.8?
-  	- Sony 18-105 F4?
-  	- Tripod (new)
-  	- all batteries
-  	- lense warmer
-  	- powerbank
+	- ZVE10
+	- TTartisan 7.5mm F2 fisheye
+	- SIGMA 16mm F1.4
+	- SIGMA 30mm F1.4
+	- Tamron 70-300
+	- SIGMA 60mm F2.8?
+	- Sony 18-105 F4?
+	- Tripod (new)
+	- all batteries
+	- lense warmer
+	- powerbank
 - Hiking gears
 	- 50L bag
- 	- hiking poles
-  	- Ice Flame sleeping bag
-  	- +8C liner
-  	- Thermarest sleeping mat (reg)
-  	- lights
-  	- ...
+	- hiking poles
+	- Ice Flame sleeping bag
+	- +8C STS liner
+	- Thermarest sleeping mat (reg)
+	- lights
 - Clothing
 	- warm clothes - the drip I got
- 	- a jacket (let rain in one if I can't find the waterproof windbreaker)
-  	- 5 pairs of socks
-  	- a few undies
-  	- purple dress + red dress - chungus likes em
-  	- a hat
-  	- a cap
-  	- swimmers
-  	- a comb
-  	- a beenie
-  	- a few quickdry shirts
-  	- 2 shorts
-  	- a pair of flip-flops
+	- a jacket (let rain in one if I can't find the waterproof windbreaker)
+	- 5 pairs of socks
+	- a few undies
+	- purple dress + red dress - chungus likes em
+	- a hat
+	- a cap
+	- swimmers
+	- a comb
+	- a beenie
+	- a few quickdry shirts
+	- 2 shorts
+	- a pair of flip-flops
 - ... 
 
 # Schedule
 Jun 14th -> Jul 27th
 ## Peru
+### Jun 14th (Sat)
+- Pick up Ella
+- Sex maybe
+
+### Jun 15th (Sun)
+- Site Museum and Archaeological Sanctuary of Pachacámac
+
+### Jun 16th (Mon)
+- Bus to Barranca
+- Taxi to Caral
+- Check it out and camp there :3
+
+### Jun 17th (Tue)
+- Visit Caral again
+- Taxi to Barranca
+- Bus to Lima
+
+### Jun 18th (Wed)
+- sex
+
+### Jun 19th (Thu)
+- Inca Market
+- night bus to Trujillo
+
+### Jun 20th (Fri)
+- Chan Chan
+- Stay a night at Trujillo
+
+### Jun 21st (Sat)
+- Day bus to Huaraz
+- stay at Huaraz Hotel (TODO find one)
+
+### Jun 22nd (Sun)
+- buy food
+- bus to Yungay
+- Taxi halfway to the campsite on Carretera Laguna de Parón
+- [chill](https://www.gaiagps.com/map/?loc=13.9/-77.7202/-9.0219&pubLink=b1NnEdRl63MeZ3aoWCSxAMYh&waypointId=41318d40-fa05-438c-b8bf-f04dc8de255f)
+- astro
+
+### Jun 23rd (Mon)
+- Walk up to Laguna Parón
+- day hike by the lake
+- camp at Laguna Parón
+- astro
+
+### Jun 24th (Sun)
+
 
 ## Bolivia
 
@@ -107,7 +153,9 @@ Jun 14th -> Jul 27th
 	- Morray Terraces
 	- Salt Mine of Maras 
 - [Lost Cities](https://vivaexpeditions.com/blog/the-best-lost-cities-of-peru-that-arent-machu-picchu) / Inca trails
-	 - Machu Picchu
+	 - Machu Picchu 
+		 - 1A + 3A
+		 - > rip route 2 :[
 	 - Chan Chan
 	 - Choquequirao
 	 - Caral
