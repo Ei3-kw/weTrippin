@@ -43,8 +43,8 @@
 - flu vac (1/1)
 - Hepatitis A (0/1)
 - Typhoid (0/1)
-- Yellow fever (0/1)
-- Hepatitis B (0/3)
+- Yellow fever (1/1)
+- Hepatitis B (1/3)
 - Varicella (chickenpox) (0/1)
 - MMR (?)
 
@@ -101,8 +101,90 @@ Jun 14th -> Jul 27th
 - Sex maybe
 
 ### Jun 15th (Sun)
-- Site Museum and Archaeological Sanctuary of Pachacámac
+- Bus to Barranca
+- Taxi to Caral
+- Check it out and camp there :3
 
+### Jun 16th (Mon)
+- Visit Caral again
+- Taxi to Barranca
+- Bus to Lima
+
+### Jun 17th (Tue)
+- Inca Market
+- Museo del Convento de San Francisco y Catacumbas
+- Night bus to Trujillo
+
+### Jun 18th (Wed)
+- Chan Chan
+- Night bus to Caraz
+
+### Jun 19th (Thu) 
+- Buy food
+- Sex
+- Stay at Caraz Hotel (TODO find one)
+### Jun 20th (Fri)
+- Mini bus to Laguna Parón
+- Hike back down to [chill](https://www.gaiagps.com/map/?loc=13.9/-77.7202/-9.0219&pubLink=b1NnEdRl63MeZ3aoWCSxAMYh&waypointId=41318d40-fa05-438c-b8bf-f04dc8de255f)
+- Astro
+### Jun 21st (Sat)
+- Walk up to Laguna Parón (potentially stop a driver and get a lift)
+- Day hike by the lake
+- Camp at Laguna Parón
+- Astro
+### Jun 22nd (Sun)
+- Mini bus back to Caraz
+- Bus/ taxi to lake 69 trail head
+- Hike up to lake 69
+- 69
+- Astro
+
+### Jun 23rd (Mon)
+- Hike to Refugio Peru/ campamento base
+- Camp there
+- Day hike to Laguna Matacocha and back (optional)
+### Jun 24th (Sun)
+- Hike back to trailhead
+- Buy food in Yanama
+- Recharge shit
+- Taxi to santa cruz trail head
+- Camp the night
+
+### Jun 25th (Mon)
+- Hike to Camping (Perfect spot btwn rocks) (9.3km, 801m)
+
+### Jun 26th (Tue)
+- Alpamayo Base Camp (14.9km, 1212m)
+> Maybe closer to the lake :3
+
+### Jun 27th (Wed)
+- Llamacorral (14.7km, 349m)
+
+### Jun 28th (Thu)
+- Cashapampa (town) (9.65km, 386m)
+- Taxi to Caraz
+- Grab our shit from hotel
+- Night bus to Lima
+
+### Jun 29th (Fri)
+- Sex maybe
+- Buy groceries
+- Site Museum and Archaeological Sanctuary of Pachacámac
+- Night bus to Cusco (6PM)
+
+### Jun 30th (Sat)
+- arrive at Cusco (3PM)
+- 
+### Jul 1st (Sun)
+
+### Jul 2nd (Mon)
+
+### Jul 3rd (Tue)
+
+
+
+%% ### Jun 15th (Sun)
+- 
 ### Jun 16th (Mon)
 - Bus to Barranca
 - Taxi to Caral
@@ -142,7 +224,7 @@ Jun 14th -> Jul 27th
 - astro
 
 ### Jun 24th (Sun)
-
+ %%
 
 ## Bolivia
 
