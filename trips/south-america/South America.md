@@ -1,5 +1,5 @@
 > give Chungus a kiss & a hug 🩷
-> give bedbug two kisses 🩷
+> give bedbug two kisses and three hugs 🩷
 
 # TODO
 ## Visa - FUCKED
