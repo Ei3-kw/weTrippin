@@ -17,7 +17,7 @@
 - Mon, 28 Jul 2025 (5:50) **La Paz (Bol)** -> Wed, 30 Jul 2025 (13:10) **Bris**
 
 ## Rent cars
-> Oh yea fuck that too \
+> Oh yea fuck that too 
 > imagine being not old enough... or too old in chungus's case xD
 ### Peru
 ### Bolivia
@@ -35,7 +35,7 @@
 - https://www.couchsurfing.com/people/psicomagia
 
 ## Not Die of Ligma
-> [peru](https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru) \
+> [peru](https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru) 
 > [bolivia](https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia)
 
 ### Vaccines (Ella)
@@ -166,22 +166,107 @@ Jun 14th -> Jul 27th
 - Grab our shit from hotel
 - Night bus to Lima
 
+%% 
 ### Jun 29th (Fri)
 - Sex maybe
 - Buy groceries
 - Site Museum and Archaeological Sanctuary of Pachacámac
-- Night bus to Cusco (6PM)
+- Night bus to Cusco (6PM) 
+	 Fuck that
 
 ### Jun 30th (Sat)
 - arrive at Cusco (3PM)
-- 
+- [Rent a car?]([https://www.europcar.com.au/en-au/reservation/vehicles?pickupLocation=CUZC02&dropoffLocation=CUZC02&pickupYear=2025&pickupMonth=06&pickupDay=30&pickupHour=16&pickupMinute=00&dropoffYear=2025&dropoffMonth=07&dropoffDay=01&dropoffHour=16&dropoffMinute=00&countryOfResidence=AU&driverAge=22&vehicleType=CR&promoCode=55138134&acriss=MBAR&selectedAcriss=MBAR&utm_content=%249yj6dD1VJC9TGllYtn8Gw&nfeUrl=https%3A%2F%2Feuropcar.com.au&utm_source=KAYAK-kayak.com.au-CORE-CPA&utm_medium=partnership&utm_campaign=%5BKayak%5D-%5BCORE%5D-%5BAlwaysOn%5D-%5Bdesktop%5D-%5BAU%5D&clickID=%249yj6dD1VJC9TGllYtn8Gw](https://www.europcar.com.au/en-au/reservation/vehicles?pickupLocation=CUZC02&dropoffLocation=CUZC02&pickupYear=2025&pickupMonth=06&pickupDay=30&pickupHour=16&pickupMinute=00&dropoffYear=2025&dropoffMonth=07&dropoffDay=01&dropoffHour=16&dropoffMinute=00&countryOfResidence=AU&driverAge=22&vehicleType=CR&promoCode=55138134&acriss=MBAR&selectedAcriss=MBAR&utm_content=%249yj6dD1VJC9TGllYtn8Gw&nfeUrl=https%3A%2F%2Feuropcar.com.au&utm_source=KAYAK-kayak.com.au-CORE-CPA&utm_medium=partnership&utm_campaign=%5BKayak%5D-%5BCORE%5D-%5BAlwaysOn%5D-%5Bdesktop%5D-%5BAU%5D&clickID=%249yj6dD1VJC9TGllYtn8Gw "https://www.europcar.com.au/en-au/reservation/vehicles?pickupLocation=CUZC02&dropoffLocation=CUZC02&pickupYear=2025&pickupMonth=06&pickupDay=30&pickupHour=16&pickupMinute=00&dropoffYear=2025&dropoffMonth=07&dropoffDay=01&dropoffHour=16&dropoffMinute=00&countryOfResidence=AU&driverAge=22&vehicleType=CR&promoCode=55138134&acriss=MBAR&selectedAcriss=MBAR&utm_content=%249yj6dD1VJC9TGllYtn8Gw&nfeUrl=https%3A%2F%2Feuropcar.com.au&utm_source=KAYAK-kayak.com.au-CORE-CPA&utm_medium=partnership&utm_campaign=%5BKayak%5D-%5BCORE%5D-%5BAlwaysOn%5D-%5Bdesktop%5D-%5BAU%5D&clickID=%249yj6dD1VJC9TGllYtn8Gw"))
+- Drive to [Palccoyo](https://www.oopsibookedagain.com/blog/palccoyo-rainbow-mountain-peru)
+- camp the night 
 ### Jul 1st (Sun)
+- Get up early and hike up Pacoyo
+- I wanna do the stone forest side track as well :3
+- lots of pics in red dress?
+- Start driving back to Cusco midday
+- Return the car 4PM
+- Buy groceries at Cusco
+- [Night bus to Arequipa](https://www.busbud.com/en/bus-schedules-results/375dd587-9001-acbd-84a4-683ded86b9e4/375dd587-9001-acbd-84a4-683ded81d51b?outbound_date=2025-07-01&adults=2&leg_card_id=900b2125-82f7-461d-b0ec-eeed5e5ba1301718748672025-07-01T19%253A00%253A00-05%253A002025-07-02T05%253A00%253A00-05%253A00&view=ticket_options)
+ %%
+
+### Jun 29th (Fri)
+- [Morning Flight to Cusco](https://www.google.com/travel/flights/booking?tfs=CBwQAhpKEgoyMDI1LTA2LTI5IiAKA0xJTRIKMjAyNS0wNi0yORoDQ1VaKgJKQTIENzAxOWoMCAISCC9tLzBscGZocgwIAhIIL20vMGpsZDNAAUgBcAGCAQsI____________AZgBAg&tfu=CmxDalJJV21kbWFUazRaR3gzVlRSQlEwTTNjMUZDUnkwdExTMHRMUzB0YzJWaWFtUTBNVUZCUVVGQlIyZE1WV1EwUldadlFsTkJFZ1pLUVRjd01Ua2FDZ2k3T2hBQ0dnTkJWVVE0SEhDc0pRPT0SBggDIAEoAiIA&hl=en&gl=au&curr=AUD) 
+- Buy groceries at Cusco - black corns 
+- [Rent a car?](https://www.europcar.com.au/en-au/reservation/vehicles?pickupLocation=CUZC02&dropoffLocation=CUZC02&pickupYear=2025&pickupMonth=06&pickupDay=29&pickupHour=16&pickupMinute=00&dropoffYear=2025&dropoffMonth=06&dropoffDay=30&dropoffHour=16&dropoffMinute=00&countryOfResidence=AU&driverAge=22&vehicleType=CR&promoCode=1yXianMNqYBYEo8PgiYidg%253D%253D&acriss=MBAR&selectedAcriss=MBAR&utm_content=%249yj6dD1VJC9TGllYtn8Gw&nfeUrl=https%3A%2F%2Feuropcar.com.au&utm_source=KAYAK-kayak.com.au-CORE-CPA&utm_medium=partnership&utm_campaign=%5BKayak%5D-%5BCORE%5D-%5BAlwaysOn%5D-%5Bdesktop%5D-%5BAU%5D&clickID=%249yj6dD1VJC9TGllYtn8Gw)
+- Drive to [Palccoyo](https://www.oopsibookedagain.com/blog/palccoyo-rainbow-mountain-peru)
+- camp the night 
+
+### Jun 30th (Sat)
+- Get up early and hike up [Pacoyo](https://www.komoot.com/de-de/tour/2187842086/)
+- I wanna do the stone forest side track as well :3
+- lots of pics in red dress?
+- Start driving back to Cusco midday
+- Return the car 4PM
+- Dinner date :3
+- [Night bus to Arequipa](https://www.busbud.com/en/bus-schedules-results/375dd587-9001-acbd-84a4-683ded86b9e4/375dd587-9001-acbd-84a4-683ded81d51b?outbound_date=2025-07-01&adults=2&leg_card_id=900b2125-82f7-461d-b0ec-eeed5e5ba1301718748672025-07-01T19%253A00%253A00-05%253A002025-07-02T05%253A00%253A00-05%253A00&view=ticket_options)
+
+### Jul 1st (Sun)
+- Arrive at Arequipa in the morning
+- (TODO) where to leave shit
+- (TODO) find a way to [Chachani](https://www.gaiagps.com/map/?loc=15.7/-71.5309/-16.1918&osmData=%7B%22type%22%3A%22osm%22%2C%22title%22%3A%22Chachani%20Volcano%22%2C%22lngLat%22%3A%7B%22lng%22%3A-71.53155716268847%2C%22lat%22%3A-16.1938209650052%7D%2C%22properties%22%3A%7B%22class%22%3A%22summit_named%22%2C%22ele_feet%22%3A19767%2C%22ele_meters%22%3A6025%2C%22name%22%3A%22Chachani%20Volcano%22%2C%22osm_id%22%3A253904849%2C%22qrank%22%3A0.7867000102996826%2C%22symbol%22%3A%22%EE%A5%82%22%2C%22type%22%3A%22volcano%22%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-71.5316390991211%2C-16.193966346736005%5D%7D%7D%2C%22osmId%22%3A253904849%2C%22mapboxLayerId%22%3A%22GaiaTopoRasterFeet__peak-named-font-qrank%22%7D) trail head
+- Hike to [Acampamiento base de Chachani](https://www.gaiagps.com/map/?loc=17.1/-71.5304/-16.1777&osmData=%7B%22type%22%3A%22osm%22%2C%22title%22%3A%22Acampamiento%20base%20de%20Chachani%22%2C%22lngLat%22%3A%7B%22lng%22%3A-71.53102368578686%2C%22lat%22%3A-16.177255407818308%7D%2C%22properties%22%3A%7B%22category%22%3A%22recreation%22%2C%22class%22%3A%22bold%22%2C%22name%22%3A%22Acampamiento%20base%20de%20Chachani%22%2C%22osm_id%22%3A3267453805%2C%22symbol%22%3A%22%EE%A4%8C%22%2C%22type%22%3A%22camp_site%22%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-71.53103828430176%2C-16.17725393201023%5D%7D%7D%2C%22osmId%22%3A3267453805%2C%22mapboxLayerId%22%3A%22GaiaTopoRasterFeet__poi-bold%22%7D) 2.5km/ 170m
+- camp the night
+- Astro :3
 
 ### Jul 2nd (Mon)
+- Do the peak and back 
+- candle?
+- Pack up campsite and head back to trail head
+- (TODO) find a way back to Arequipa
+- Stay at a CS - TODO contact CS
+	- https://www.couchsurfing.com/people/paul.alonso.herrera
+	- https://www.couchsurfing.com/people/mauricio_villegas_alvarez
+	- https://www.couchsurfing.com/people/franco-l-2
 
 ### Jul 3rd (Tue)
+- the white church - Basilica Cathedral of Arequipa - Plaza de Armas, Arequipa (half day)
+- Hang out with CS 
+	- dinner? 
+	- card games? 
+	- Sharing photos
+	- Yap
+- Stay at a CS 
 
+### Jul 4th (Wed) 
+> should we break this day into two and stay one more night here?
+- Mirador Yanahuara Lookout - Miguel Grau, Yanahuara, Arequipa (Sunrise/ sunset timelapse)
+- Casa del Moral - Calle Moral 318, Arequipa (1-2h)
+- Monasterio de Santa Catalina - Santa Catalina 301, Arequipa (2-3h)
+- The Museum of Andean Sanctuaries - Calle la Merced 110, Arequipa (2h?)
+- Night bus to Cusco
 
+### Jul 5th (Thu)
+- Grocery shopping at Cusco
+- (TODO) - where to leave our shit
+	- maybe stay a night in a hotel in Cusco idk
+- Bus to [Piskacucho](https://www.gaiagps.com/map/?loc=15.0/-72.3881/-13.2191&pubLink=k8XRqSvMN3RoHakPHgSEd3io&waypointId=806e14fd-e952-41aa-9934-2b7357faee19) 
+- [Inca trail to Machu Picchu](https://www.gaiagps.com/map/?loc=15.2/-72.4254/-13.2405&knownRouteId=258286)
+
+> (TODO) - plan the hike if we're doing it
+> It's a 4 day hike by design
+
+### Jul 6th (Fri)
+
+### Jul 7th (Sat)
+
+### Jul 8th (Sun)
+
+- Camp by Machu Picchu
+### Jul 9th (Mon)
+- Machu Picchu day trip 
+	- morning ticket 
+	- 1A + 3A
+- Bus to **Aguas Calientes**
+- Train to **Ollantaytambo**
+- Stay somewhere in Sacred Valley
+### Jul 10th (Tue)
+- Morray Terraces
+- Salt Mine of Maras 
 
 %% ### Jun 15th (Sun)
 - 
