@@ -1,0 +1,2 @@
+I would like to have a sticker bomb van where the front is sticker bomb and the back is spray painted black and white with stickers (color) slowly creeping into black and white and filling that with color
+![[Jeep.png]]

@@ -92,13 +92,32 @@
 	- 2 shorts
 	- a pair of flip-flops
 - ... 
+## Packing list (chun9us)
+- Bär
+- Sleeping Stuff
+	- Sleeping Bag
+	- Sleeping bag liner
+	- Mattress (inflatable not rollable)
+	- Tent
+	- Pillow
+	- Pijama
+- Cooking
+	- Pots
+	- Stove
+	- Spoon and fork and shit
+- Clothes
+	- Quite literally all i own...
+- Gear
+	- Camera
+	- Laptop
+	- chargers and cables and shit
 
 # Schedule
 Jun 14th -> Jul 27th
 ## Peru
 ### Jun 14th (Sat)
 - Pick up Ella
-- Sex maybe
+- Sex
 
 ### Jun 15th (Sun)
 - Bus to Barranca
@@ -168,7 +187,7 @@ Jun 14th -> Jul 27th
 
 %% 
 ### Jun 29th (Fri)
-- Sex maybe
+- Sex
 - Buy groceries
 - Site Museum and Archaeological Sanctuary of Pachacámac
 - Night bus to Cusco (6PM) 
