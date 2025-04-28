@@ -39,14 +39,14 @@
 > [bolivia](https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia)
 
 ### Vaccines (Ella)
-- rabies (2/3)
+- rabies (3/3)
 - flu vac (1/1)
-- Hepatitis A (0/1)
-- Typhoid (0/1)
+- Hepatitis A (1/2)
+- Typhoid (1/1)
 - Yellow fever (1/1)
 - Hepatitis B (1/3)
-- Varicella (chickenpox) (0/1)
-- MMR (?)
+- Varicella (chickenpox) (0/2)
+- MMR (0/2)
 
 ### Travel insurance (Ella?)
 > In case Ella having bad altitude sickness/ being stupid/ both
@@ -233,14 +233,19 @@ Jun 14th -> Jul 27th
 - Stay at a CS 
 
 ### Jul 4th (Wed) 
-> should we break this day into two and stay one more night here?
-- Mirador Yanahuara Lookout - Miguel Grau, Yanahuara, Arequipa (Sunrise/ sunset timelapse)
+> should we break this day into two and stay one more night here? YES
 - Casa del Moral - Calle Moral 318, Arequipa (1-2h)
-- Monasterio de Santa Catalina - Santa Catalina 301, Arequipa (2-3h)
 - The Museum of Andean Sanctuaries - Calle la Merced 110, Arequipa (2h?)
-- Night bus to Cusco
+- Mirador Yanahuara Lookout - Miguel Grau, Yanahuara, Arequipa (sunset timelapse)
+- Stay at CS 
 
 ### Jul 5th (Thu)
+- Sunrise timelapse
+- Monasterio de Santa Catalina - Santa Catalina 301, Arequipa (2-3h)
+- Pick up shits from CS
+- Night bus to Cusco
+
+### Jul 6th (Fri)
 - Grocery shopping at Cusco
 - (TODO) - where to leave our shit
 	- maybe stay a night in a hotel in Cusco idk
@@ -250,21 +255,23 @@ Jun 14th -> Jul 27th
 > (TODO) - plan the hike if we're doing it
 > It's a 4 day hike by design
 
-### Jul 6th (Fri)
-
 ### Jul 7th (Sat)
 
 ### Jul 8th (Sun)
 
-- Camp by Machu Picchu
 ### Jul 9th (Mon)
+
+- Camp by Machu Picchu
+
+### Jul 10th (Tue)
 - Machu Picchu day trip 
 	- morning ticket 
 	- 1A + 3A
 - Bus to **Aguas Calientes**
 - Train to **Ollantaytambo**
 - Stay somewhere in Sacred Valley
-### Jul 10th (Tue)
+
+### Jul 11th (Wed)
 - Morray Terraces
 - Salt Mine of Maras 
 
