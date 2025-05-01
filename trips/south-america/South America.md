@@ -12,6 +12,13 @@
 - screw tha Ar visa... fucked up
 > yea let's just not do this this time... ![fuck](https://media1.tenor.com/m/nanFebyUvXAAAAAd/cat-fuck-this.gif)
 
+- [Bolivia](https://visas.cancilleria.gob.bo/#/) 
+	- book an accommodation 
+	- draft out a plan
+	- prove Ella's not broke T ^ T
+	- upload above thingy
+- Peru
+	- print out Aussie visa
 ## Plane ticket - DONE
 - Sat, 14 Jun 2025 (8:40) **Bris** -> Sat, 14 Jun 2025 (22:35) **Lima (Peru)**
 - Mon, 28 Jul 2025 (5:50) **La Paz (Bol)** -> Wed, 30 Jul 2025 (13:10) **Bris**
@@ -23,6 +30,7 @@
 ### Bolivia
 
 ## International Driving Permit (IDP)
+rendering now :3
 
 ## Plan B for Altitude sickness?
 
@@ -91,7 +99,7 @@
 	- a few quickdry shirts
 	- 2 shorts
 	- a pair of flip-flops
-- ... 
+- Party mix for the chungus :3
 ## Packing list (chun9us)
 - Bär
 - Sleeping Stuff
