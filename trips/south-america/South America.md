@@ -33,6 +33,12 @@
 rendering now :3
 
 ## Plan B for Altitude sickness?
+- find nice airbnbs
+- stab
+- try different food
+- factorio
+- a subset of places (TBD)
+- CS
 
 ## Candle on Mt for Bday
 
@@ -274,33 +280,77 @@ Jun 14th -> Jul 27th
 
 ### Jul 6th (Fri)
 - Grocery shopping at Cusco
-- (TODO) - where to leave our shit
-	- maybe stay a night in a hotel in Cusco idk
-- Bus to [Piskacucho](https://www.gaiagps.com/map/?loc=15.0/-72.3881/-13.2191&pubLink=k8XRqSvMN3RoHakPHgSEd3io&waypointId=806e14fd-e952-41aa-9934-2b7357faee19) 
-- [Inca trail to Machu Picchu](https://www.gaiagps.com/map/?loc=15.2/-72.4254/-13.2405&knownRouteId=258286)
+- Rent a bike
+- Learn it (or try to) - Ella
+- Unlearn it - Moritz
+- Stay a night in a hotel in Cusco
+
+- ~~Bus to [Piskacucho](https://www.gaiagps.com/map/?loc=15.0/-72.3881/-13.2191&pubLink=k8XRqSvMN3RoHakPHgSEd3io&waypointId=806e14fd-e952-41aa-9934-2b7357faee19)
+- ~~[Inca trail to Machu Picchu](https://www.gaiagps.com/map/?loc=15.2/-72.4254/-13.2405&knownRouteId=258286)~~
+
 
 > (TODO) - plan the hike if we're doing it
 > It's a 4 day hike by design
 
 ### Jul 7th (Sat)
-
+- Bus to Mollepata
+- Taxi to the [picnic site](https://www.gaiagps.com/map/?loc=16.3/-72.5478/-13.4659&pubLink=rqPO1FAMxw1n4UCRJkYpWDJt&waypointId=4f13f630-35ca-40d8-a3e7-adbf0cead76e)
+- [Salkantay-trek to Machu Picchu](https://www.komoot.com/de-de/tour/2218922722?share_token=a5wZmO5S3H82IGDd8naKOxllLnVDjNjrTNFWfmdfMtKbOmBFPZ&ref=wtd)
+- Hike to Humantay Ccocha (12.5km)
+- Camp the night
+- Astro maybe
 ### Jul 8th (Sun)
+- Hike to Andenes (17.7km)
+- Hope it's flat
+- Camp the night
 
 ### Jul 9th (Mon)
+- Hike another 16km
+- Camp the night 
+### Jul 10th (Tue)
+- Hike to Mirador Llactapata Machu Picchu (15km)
+- Camp the night
+- Astro maybe
 
+### Jul 11th (Wed)
+- Hike to Machu Picchu
 - Camp by Machu Picchu
 
-### Jul 10th (Tue)
+### Jul 12th (Thu)
 - Machu Picchu day trip 
 	- morning ticket 
 	- 1A + 3A
 - Bus to **Aguas Calientes**
-- Train to **Ollantaytambo**
-- Stay somewhere in Sacred Valley
+- [Train to **Ollantaytambo**]()
+- stay the night
 
-### Jul 11th (Wed)
+### Jul 13th (Thu)
+- Taxi to Morray Terraces
 - Morray Terraces
+- Hike to Salt Mine of Maras  (8km down hill)
 - Salt Mine of Maras 
+- Evening bus back to Cusco - cheapest one **without** music
+- pick up shit from the hotel
+- Stay the night (CS?)
+
+## Jul 14th (Fri)
+- Saksaywaman ruins
+- Coricancha ruins
+- Stay the night (CS?)
+
+## Jul 15th (Hap)
+- Check out the city
+- Look for food/ cook some
+	- Black corn
+	- ~~[Ceviche](https://g.co/kgs/N3bWn22)
+	- [ur heart, grilled](https://g.co/kgs/sVMSiji)
+	- [Caldo De Mote](https://www.reddit.com/r/food/comments/waq653/i_ate_caldo_de_mote_soup_cooked_w_beef_intestines/)
+	- [Lomo saltado](https://g.co/kgs/iy33m7o)
+- Stab chungus :P
+- [Night bus to La Paz](https://www.ticketsbolivia.com/travel-by-bus/cusco-la_paz.php)
+
+## Jul 16th (Sun)
+- 
 
 %% ### Jun 15th (Sun)
 - 
@@ -394,7 +444,8 @@ Jun 14th -> Jul 27th
 	 - 
 ## Bolivia
 - Uyuni Salt Flat
- 	- Isla Incahuasi
+	- Train cemetery
+	- Isla Incahuasi
 - La Paz (cable carts xD)
  	- [Austria Peak](https://www.alltrails.com/trail/bolivia/la-paz/pico-austria)
  	- [Huayna Potosi](https://www.torntackies.com/huayna-potosi-climb/)
