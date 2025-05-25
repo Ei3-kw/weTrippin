@@ -17,8 +17,19 @@
 	- draft out a plan
 	- prove Ella's not broke T ^ T
 	- upload above thingy
+	- Things to bring
+		- 2 print out photo IDs
+		- 2 copy of Passport main page
+		- yellow fever booklet
+		- passport
+		- hotel booking (print out)
+		- exit tickets
+		- bank statement with sufficient funds
+		- visa application form
+		- 100 USD
 - Peru
 	- print out Aussie visa
+	- passport
 ## Plane ticket - DONE
 - Sat, 14 Jun 2025 (8:40) **Bris** -> Sat, 14 Jun 2025 (22:35) **Lima (Peru)**
 - Mon, 28 Jul 2025 (5:50) **La Paz (Bol)** -> Wed, 30 Jul 2025 (13:10) **Bris**
@@ -30,7 +41,7 @@
 ### Bolivia
 
 ## International Driving Permit (IDP)
-rendering now :3
+rendered
 
 ## Plan B for Altitude sickness?
 - find nice airbnbs
@@ -56,11 +67,11 @@ rendering now :3
 - rabies (3/3)
 - flu vac (1/1)
 - Hepatitis A (1/2)
-- Typhoid (1/1)
+- Typhoid (1/2)
 - Yellow fever (1/1)
-- Hepatitis B (1/3)
-- Varicella (chickenpox) (0/2)
-- MMR (0/2)
+- Hepatitis B (2/3)
+- Varicella (chickenpox) (1/2)
+- MMR (1/2)
 
 ### Travel insurance (Ella?)
 > In case Ella having bad altitude sickness/ being stupid/ both
